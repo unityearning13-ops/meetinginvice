@@ -1,0 +1,6 @@
+{
+  "name": "Unity Earning E-Learning Platform",
+  "description": "Counselling Meeting Seat Booking System and Receipt Generator for Unity Earning E-Learning Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
